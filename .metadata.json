@@ -1,0 +1,14 @@
+[
+  {
+    "package": "additive",
+    "oncran": true
+  },
+  {
+    "package": "bayesian",
+    "oncran": true
+  },
+  {
+    "package": "HiClimR",
+    "oncran": true
+  }
+]
