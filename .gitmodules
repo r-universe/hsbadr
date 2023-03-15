@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "additive"]
-	path = additive
-	url = https://github.com/hsbadr/additive
-	shallow = true
-	registered = true
 [submodule "bayesian"]
 	path = bayesian
 	url = https://github.com/hsbadr/bayesian
@@ -16,5 +11,10 @@
 [submodule "HiClimR"]
 	path = HiClimR
 	url = https://github.com/hsbadr/hiclimr
+	shallow = true
+	registered = true
+[submodule "additive"]
+	path = additive
+	url = https://github.com/hsbadr/additive
 	shallow = true
 	registered = true
