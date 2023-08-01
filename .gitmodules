@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "HiClimR"]
+	path = HiClimR
+	url = https://github.com/hsbadr/hiclimr
 [submodule "additive"]
 	path = additive
 	url = https://github.com/hsbadr/additive
 [submodule "bayesian"]
 	path = bayesian
 	url = https://github.com/hsbadr/bayesian
-[submodule "HiClimR"]
-	path = HiClimR
-	url = https://github.com/hsbadr/hiclimr
